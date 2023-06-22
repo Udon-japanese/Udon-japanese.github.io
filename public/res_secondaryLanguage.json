@@ -148,7 +148,8 @@
           "TypeScript",
           "React",
           "Next.js",
-          "TailwindCSS"
+          "TailwindCSS",
+          "Firebase"
         ]
       }
     ]
