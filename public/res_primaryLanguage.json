@@ -13,7 +13,7 @@
     {
       "title": "クイズビルダー",
       "startDate": "2023",
-      "description": "N予備校の動くWebページコンテスト夏に応募し、最優秀賞を受賞した作品です．Vanilla JS, HTML, CSS(+ Bootstrap)で製作しました．クイズを作って遊ぶことができるアプリです．ほかの人が作ったクイズも、JSON形式でアップロードすれば遊べるようになっています．",
+      "description": "N予備校の動くWebページコンテスト夏に応募し、最優秀賞を受賞した作品です。Vanilla JS, HTML, CSS(+ Bootstrap)で製作しました。クイズを作って遊ぶことができるアプリです。ほかの人が作ったクイズも、JSON形式でアップロードすれば遊べるようになっています。",
       "images": [
         "images/portfolio/quiz-builder/thumbnail.png",
         "images/portfolio/quiz-builder/create-quiz.png",
