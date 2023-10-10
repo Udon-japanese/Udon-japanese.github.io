@@ -11,35 +11,31 @@
   },
   "projects": [
     {
-      "title": "チャットサービス(仮題)(制作中)",
+      "title": "クイズビルダー",
       "startDate": "2023",
-      "description": "Next.jsとReact,Firebaseを使って、Slackのようなチャットサービスを作成中です。",
-      "images": ["images/portfolio/chat-service/thumbnail.png"],
-      "url": "https://github.com/Udon-japanese/wt-chat-service",
+      "description": "N予備校の動くWebページコンテスト夏に応募し、最優秀賞を受賞した作品です．Vanilla JS, HTML, CSS(+ Bootstrap)で製作しました．クイズを作って遊ぶことができるアプリです．ほかの人が作ったクイズも、JSON形式でアップロードすれば遊べるようになっています．",
+      "images": [
+        "images/portfolio/quiz-builder/thumbnail.png",
+        "images/portfolio/quiz-builder/create-quiz.png",
+        "images/portfolio/quiz-builder/quiz-list.png"
+      ],
+      "url": "https://github.com/Udon-japanese/quiz-builder",
       "technologies": [
         {
-          "class": "devicon-nextjs-plain",
-          "name": "Next.js"
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
         },
         {
-          "class": "devicon-react-plain",
-          "name": "React"
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
         },
         {
-          "class": "devicon-tailwindcss-plain",
-          "name": "TailwindCSS"
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
         },
         {
-          "class": "devicon-nodejs-plain",
-          "name": "Node.js"
-        },
-        {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-firebase-plain",
-          "name": "Firebase"
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
         }
       ]
     },
